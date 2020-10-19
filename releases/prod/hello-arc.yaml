@@ -16,4 +16,4 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value:Hello from Ahmed!
+      value:Hello from Ahmed2!
