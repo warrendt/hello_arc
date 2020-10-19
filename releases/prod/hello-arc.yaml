@@ -16,4 +16,4 @@ spec:
     replicaCount: 2
     env:
       name: MESSAGE
-      value:Hello from fdfd!
+      value: Hello from fdfd!
