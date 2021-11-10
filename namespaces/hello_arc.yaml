@@ -31,4 +31,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: This is an Azure Arc GitOps Demo - 5 november 2021
+          value: This is an Azure Arc GitOps Demo - 10 november 2021
